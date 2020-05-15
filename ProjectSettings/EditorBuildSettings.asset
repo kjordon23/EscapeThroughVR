@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ae85c5b0ccac6ef47b7f105ab3c6b63e
+  - enabled: 1
+    path: Assets/Scenes/timeMachineRoom.unity
+    guid: bed4d824cfbeeb44c8a22db77ac737ed
+  - enabled: 1
+    path: Assets/Scenes/Western Scene.unity
+    guid: e1b04108302ae3b4eb94679c5d9e9446
+  - enabled: 1
+    path: Assets/Scenes/MedievalRoom.unity
+    guid: a7bb9ee19a6bdc2409af9d914ff40730
+  - enabled: 1
+    path: Assets/Scenes/FutureEscapeRoom.unity
+    guid: c6c014c5b64f94247a78c03c0a37e25a
+  m_configObjects: {}
